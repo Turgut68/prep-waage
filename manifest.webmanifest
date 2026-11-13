@@ -1,0 +1,11 @@
+{
+  "name": "Prep Waage",
+  "short_name": "Prep Waage",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2ef",
+  "theme_color": "#eef2ef",
+  "lang": "de",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}
